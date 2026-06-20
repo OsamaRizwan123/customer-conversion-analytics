@@ -1,5 +1,3 @@
-# customer-conversion-analytics
-
 # Customer Conversion Analytics
 
 ## Objective
